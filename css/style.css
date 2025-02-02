@@ -6,6 +6,7 @@
 
 body {
     background-color: #add8e6;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .dashed-border {
@@ -151,6 +152,7 @@ main > div:nth-child(even) {
     padding-top: 10px;
     padding-bottom: 40px;
     justify-content: center;
+    border-bottom: 2px solid #9a9a9a;
 }
 
 #line6 .sub-container {
@@ -179,5 +181,31 @@ main > div:nth-child(even) {
 
 /*       /Main     */
 
+
+/*    Footer     */
+.footer-line {
+    height: 110px;
+    display: flex;
+    align-items:flex-end;
+    justify-content: center;
+    background-color: #23272a;
+    border-top: solid 1px white;
+    border-bottom: solid 1px white;
+}
+
+.footer-line .sub-container {
+    display: flex;
+    width: 1200px;
+    height: 80px;
+    background-color: #7fffd4;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.f-element {
+    background-color: #ffb6c1;
+    padding: 8px;
+}
+/*    Footer     */
 
 
