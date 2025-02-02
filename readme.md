@@ -2,7 +2,7 @@
 
 Nell'esercizio di oggi (salvato come progetto n.7) andremo a replicare un layout fornitoci sottoforma di immagine.
 
-##Info
+## Info
 
 Per la realizzazione di questo progetto è necessario conoscere come funziona il modulo **Flexbox**, a partire dalle proprietà dei **flex-containers**, fino ad arrivare a quelle dei **flex-items**.
 
